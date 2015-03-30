@@ -1,0 +1,24 @@
+
+/* Class = "IBUINavigationItem"; prompt = "災害発生時に持ち出すもの"; ObjectID = "1o6-kD-p7L"; */
+"1o6-kD-p7L.prompt" = "災害発生時に持ち出すもの";
+
+/* Class = "IBUINavigationItem"; title = "非常持出品"; ObjectID = "1o6-kD-p7L"; */
+"1o6-kD-p7L.title" = "非常持出品";
+
+/* Class = "IBUITabBarItem"; title = "非常持出品"; ObjectID = "9hf-vb-5Ye"; */
+"9hf-vb-5Ye.title" = "非常持出品";
+
+/* Class = "IBUINavigationItem"; prompt = "災害発生時に自活するためのもの"; ObjectID = "Al8-KN-7kk"; */
+"Al8-KN-7kk.prompt" = "災害発生時に自活するためのもの";
+
+/* Class = "IBUINavigationItem"; title = "備蓄品リスト"; ObjectID = "Al8-KN-7kk"; */
+"Al8-KN-7kk.title" = "備蓄品リスト";
+
+/* Class = "IBUITabBarItem"; title = "避難所マップ"; ObjectID = "fVd-Pk-sws"; */
+"fVd-Pk-sws.title" = "避難所マップ";
+
+/* Class = "IBUITabBarItem"; title = "備蓄品リスト"; ObjectID = "gth-Hc-tVC"; */
+"gth-Hc-tVC.title" = "備蓄品リスト";
+
+/* Class = "IBUIBarButtonItem"; title = "戻る"; ObjectID = "rul-UV-ZEo"; */
+"rul-UV-ZEo.title" = "戻る";
